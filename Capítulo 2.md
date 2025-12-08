@@ -46,9 +46,11 @@ Não faz muito sentido ter frequência para variáveis contínuas, sem considera
 
 ## Diagrama de barras
 Colocam-se os valores das variáveis no eixo x e as frequências no eixo y
+![](media/Pasted%20image%2020251208202038.png)
 
-
-
-
+## Polígono de frequências
+Semelhante ao diagrama de barras, mas faz linhas unindo os valores médios
+Obs: os valores médios não estão alinhados como deveriam na imagem 
+![](media/Pasted%20image%2020251208202201.png)
 
 ==Lendo...==
