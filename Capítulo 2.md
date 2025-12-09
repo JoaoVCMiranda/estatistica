@@ -26,9 +26,16 @@ De todos os moradores de um bairro(==população==) qual a idade *(em anos intei
 ### Contínuas
 De todos os moradores de um bairro(==população==) qual a idade dos moradores (==variável==) ? 
 (Valores geralmente por medição*)
-* por serem variáveis contínuas, é preciso assumir uma precisão, e quando esta não está definida assume-se a metade da menor casa dos dados
+#### Amplitude de classe
+É a largura da barra, se não estiver explicitada é a precisão dos valores dados
+> precisão: metade da menor divisão
 
+(caso a amplitude seja definida à parte podemos ter valores *diferentes* que entram na mesma classe) 
+$$k = \frac{max(dados) - min(dados)}{h}$$
+(onde $k\in \mathbb{Z}$ é o número de classes)
+(OBS: esse é um assunto controverso, cada autor falar de um jeito)
 
+Portanto, só agrupar se for necessário e/ou conveniente.
 ## Descrição Gráfica 
 Uso de tabelas, diagramas e etc para apresentação dos dados
 
@@ -52,5 +59,14 @@ Colocam-se os valores das variáveis no eixo x e as frequências no eixo y
 Semelhante ao diagrama de barras, mas faz linhas unindo os valores médios
 Obs: os valores médios não estão alinhados como deveriam na imagem 
 ![](media/Pasted%20image%2020251208202201.png)
+
+### Agrupamento
+Para fazer o polígono, as vezes é interessante agrupar os valores, existem os limites aparentes, que são os números de fato que são tratados(valor médio) e temos os limites reais que são utilizados para categorizar os dados($\pm\frac{h}{2}$ )
+
+
+> Curiosidade: Puericultura é o cuidado das crianças e adolescentes de 0 a 19 anos em postos de saúde.
+
+
+O agrupamento é muito importante ao tratar com dados contínuos, pode ser útil inclusive fazer uma função agrupe dados contínuos em dados discretos para usar as mesmas funções feitas antes...
 
 ==Lendo...==
