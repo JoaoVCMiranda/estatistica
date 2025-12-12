@@ -1,0 +1,1 @@
+ANOVA = ANalisys Of Variance

@@ -1,4 +1,8 @@
 - [x] [[Capítulo 1]]
-- [ ] [[Capítulo 2]]
-- [ ] [[Capítulo 3]]
-- [ ] 
+- [x] [[Capítulo 2]]
+- [x] [[Capítulo 3]]
+- [x] [Capítulo 4](Capítulo%204.md)
+- [ ] [Capítulo 5](Capítulo%205.md)
+- [ ] [Capítulo 6](Capítulo%206.md)
+- [ ] [Capítulo 7](Capítulo%207.md)
+- [ ] [Capítulo 8](Capítulo%208.md)

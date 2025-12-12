@@ -98,14 +98,22 @@ Tem até uma aproximação para ela que podemos usar...
 Faz-se uma distribuição normal reduzida, para chegar na $\chi ^2$ e a vantagem é que isso faz surgir tanto o desvio padrão quanto a variância da amostra.
 
 
-A distribuição $\chi^2$ usa uma normal reduzida, e elevada ao quadrado.
+###  Distribuição $\chi^2$ 
+está relacionada a uma normal reduzida, e elevada ao quadrado.
+
+$$
+\chi^2 = \sum_{i=1}^v(\frac{x_i-\mu}{\sigma})^2
+$$
+
 > Lembre-se que como a variância tem n-1 graus de liberdade assim também será na chi quadrado
 
+---
 ### t-student
 Parece muito com a normal só não é pois usa a raiz da variância(que é apenas um estimador do desvio-padrão)
 ### F de Snedecor
 
 É a mesma coisa que fizemos para a distribuição amostral da variância, mas agora reduzimos a chi quadrado, para poder fazer comparações sobre as distribuições de valores das variâncias.
 
+[[Capítulo 4]]
 
 

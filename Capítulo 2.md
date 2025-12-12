@@ -51,6 +51,9 @@ Plantas (Uva, Manga, Abacaxi) -> Uva=1, Manga=2, Abacaxi=3
 
 Não faz muito sentido ter frequência para variáveis contínuas, sem considerar um intervalo.
 
+### Frequência Relativa
+É a frequência dividida pelo tamanho da amostra.
+
 ## Diagrama de barras
 Colocam-se os valores das variáveis no eixo x e as frequências no eixo y
 ![](media/Pasted%20image%2020251208202038.png)
@@ -145,7 +148,9 @@ Ninguém usa ?
 Mas ele faz sentido!
 
 É a razão entre o desvio e a média, quando menor, mais preciso
-
+$$
+Cv = \frac{\sigma}{\mu}
+$$
 E isso está relacionado com as medidas de achatamento, ou "largura das caudas" das distribuições
 
 
