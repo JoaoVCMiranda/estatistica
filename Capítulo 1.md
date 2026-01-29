@@ -13,6 +13,7 @@ Aplicável a qualquer ramo do conhecimento que se manipulem dados experimentais
 População, universo e amostra.
 
 Universo contêm a população e todo o resto
+
 População é aquilo que você quer estudar
 
 Amostra é o que deu para coletar da população
